@@ -1,2 +1,2 @@
 # image-recognition
-image recognition through neural networks
+image recognition through neural networks using matlab
